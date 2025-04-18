@@ -17,13 +17,6 @@ A Flutter application to view current weather status.
 
 ## Getting Started
 
-### Prerequisites
-
-**Flutter**
-
-- [Flutter documentation](https://flutter.dev/docs)
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 ### Installing
 
@@ -39,13 +32,3 @@ eg:
 class ApiKey {
   static const OPEN_WEATHER_MAP = 'your_key';
 }
-```
-
-## todo
-
-- i18n support for multiple languages
-
-## Acknowledgments
-
-- [Weather Icon Pack](https://erikflowers.github.io/weather-icons/)
-- [App Mockup](https://app-mockup.com), [photopea](http://photopea.com) (for screenshots)
